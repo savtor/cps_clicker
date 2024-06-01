@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CPS Clicker
 
 This project automates clicking on the [CPSTest.io](https://cpstest.io) website using Selenium(around 20 cps).
@@ -44,3 +45,7 @@ The script opens the CPSTest.io website and continuously clicks on the click are
 ## License
 
 This project is licensed under the MIT License.
+=======
+# cps_clicker
+Automatic cps test clicker using python 
+>>>>>>> 278d87e8b926820790f39c1d98ffa00d47116961
